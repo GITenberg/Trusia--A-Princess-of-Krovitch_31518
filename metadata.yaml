@@ -1,0 +1,36 @@
+_repo: Trusia--A-Princess-of-Krovitch_31518
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Everett, Walter H.
+    birthdate: 1880
+    deathdate: 1946
+    gutenberg_agent_id: '42524'
+    url: http://www.gutenberg.org/2009/agents/42524
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brinton, Davis
+    gutenberg_agent_id: '35291'
+    url: http://www.gutenberg.org/2009/agents/35291
+description: ''
+gutenberg_issued: '2010-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31518'
+  lccn: '06035622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Europe -- Fiction'
+title: 'Trusia: A Princess of Krovitch'
+url: http://www.gutenberg.org/ebooks/31518
